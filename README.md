@@ -5,6 +5,3 @@ Mod of LuaJ
 * https://github.com/weimingtom/Kuuko  
 * http://www.luaj.org/luaj/3.0/README.html  
 * https://sourceforge.net/projects/luaj  
-
-## Current Version  
-* luaj-2.0.1.zip  
